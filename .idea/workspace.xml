@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="070be7a7-03f2-4bc0-bc2d-3a9220352c3e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point/Label.py" beforeDir="false" afterPath="$PROJECT_DIR$/point/Label.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point/Point.py" beforeDir="false" afterPath="$PROJECT_DIR$/point/Point.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point/PointDescription.py" beforeDir="false" afterPath="$PROJECT_DIR$/point/PointDescription.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SensorsAndNotifications/Sensors.py" beforeDir="false" afterPath="$PROJECT_DIR$/sensorsAndNotifications/Sensors.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,22 +18,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Point.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Point/Point.py">
+        <entry file="file://$PROJECT_DIR$/point/Point.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="Label.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Point/Label.py">
+        <entry file="file://$PROJECT_DIR$/point/Label.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="PointDescription.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Point/PointDescription.py">
+        <entry file="file://$PROJECT_DIR$/point/PointDescription.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="Sensors.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SensorsAndNotifications/Sensors.py">
+        <entry file="file://$PROJECT_DIR$/sensorsAndNotifications/Sensors.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -82,12 +86,12 @@
             <path>
               <item name="ARQ" type="b2602c69:ProjectViewProjectNode" />
               <item name="ARQ" type="462c0819:PsiDirectoryNode" />
-              <item name="Point" type="462c0819:PsiDirectoryNode" />
+              <item name="point" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ARQ" type="b2602c69:ProjectViewProjectNode" />
               <item name="ARQ" type="462c0819:PsiDirectoryNode" />
-              <item name="SensorsAndNotifications" type="462c0819:PsiDirectoryNode" />
+              <item name="sensorsAndNotifications" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,16 +186,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Point/Point.py">
+    <entry file="file://$PROJECT_DIR$/point/Point.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Point/Label.py">
+    <entry file="file://$PROJECT_DIR$/point/Label.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Point/PointDescription.py">
+    <entry file="file://$PROJECT_DIR$/point/PointDescription.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SensorsAndNotifications/Sensors.py">
+    <entry file="file://$PROJECT_DIR$/sensorsAndNotifications/Sensors.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
