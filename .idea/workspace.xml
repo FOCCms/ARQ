@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="070be7a7-03f2-4bc0-bc2d-3a9220352c3e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/point/Label.py" beforeDir="false" afterPath="$PROJECT_DIR$/point/Label.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/point/LinearPoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/point/LinearPoint.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/point/Point.py" beforeDir="false" afterPath="$PROJECT_DIR$/point/Point.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/point/TextDescription.py" beforeDir="false" afterPath="$PROJECT_DIR$/point/TextDescription.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Point.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Point.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/point/Point.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="13" column="86" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="86" />
+            <state relative-caret-position="252">
+              <caret line="19" column="68" lean-forward="true" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -31,8 +29,8 @@
       <file leaf-file-name="Label.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/point/Label.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -49,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinearPoint.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LinearPoint.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/point/LinearPoint.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="102">
+              <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -80,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/point/TextDescription.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="56" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="56" />
+              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -108,12 +106,12 @@
         <option value="$PROJECT_DIR$/SensorsAndNotifications/Sensors.py" />
         <option value="$PROJECT_DIR$/point/GPS.py" />
         <option value="$PROJECT_DIR$/point/ImageDescription.py" />
-        <option value="$PROJECT_DIR$/point/TextDescription.py" />
         <option value="$PROJECT_DIR$/point/PointDescription.py" />
         <option value="$PROJECT_DIR$/point/Quest" />
-        <option value="$PROJECT_DIR$/point/Point.py" />
-        <option value="$PROJECT_DIR$/point/Label.py" />
         <option value="$PROJECT_DIR$/point/LinearPoint.py" />
+        <option value="$PROJECT_DIR$/point/Label.py" />
+        <option value="$PROJECT_DIR$/point/TextDescription.py" />
+        <option value="$PROJECT_DIR$/point/Point.py" />
       </list>
     </option>
   </component>
@@ -156,6 +154,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/pr/python/ARQ/point/TextDescription.py" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../4" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -276,7 +275,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074404" side_tool="true" weight="0.32838285" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32838285" />
@@ -410,20 +409,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/point/TextDescription.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="56" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/point/PointDescription.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/point/Quest">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -441,27 +426,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/point/Label.py">
+    <entry file="file://$PROJECT_DIR$/point/TextDescription.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="119">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/point/Point.py">
+    <entry file="file://$PROJECT_DIR$/point/PointDescription.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="13" column="86" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="86" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/point/LinearPoint.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="102">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point/Label.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point/Point.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="19" column="68" lean-forward="true" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

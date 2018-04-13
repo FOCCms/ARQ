@@ -11,7 +11,8 @@ from abc import abstractmethod
 class Point:
     """Базовый класс точки"""
 
-    def __init__(self, type, label, gps, startDescription, image, price, tip, tipPrice):
+    def __init__(self, type: str, label: Label, gps: GPS, startDescription: TextDescription,
+                 image: ImageDescription, price: float, tip: TextDescription, tipPrice: float):
         self._pointType = type
         self._pointLabel = Label().setLabel(label)
         self._gpsCoordinates = GPS().setDescriptionData(gps)

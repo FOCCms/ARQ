@@ -5,11 +5,7 @@ class TextDescription(PointDescription):
     """Текстовое описание точки"""
     __text: str
 
-    def setDescriptionData(self, data: object) -> object:
-        """
-
-        :rtype: object
-        """
+    def setDescriptionData(self, data):
         self.__text = str(data)
 
     def getDescriptionData(self):
