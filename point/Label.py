@@ -9,7 +9,7 @@ class Label:
         pass
 
     @abstractmethod
-    def setLabel(self):
+    def setLabel(self, label):
         pass
 
     @abstractmethod

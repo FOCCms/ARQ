@@ -11,17 +11,18 @@ from abc import abstractmethod
 class Point:
     """Базовый класс точки"""
 
-    _isDone = False
-    _tipPrice: Type[float]
-    _tip = TextDescription()
-    _gpsCoordinates = GPS()
-    _picture = ImageDescription()
-    _startDescription = TextDescription()
-    _timeSpentPerforming = datetime
-    _capturePrice: float
-    _pointLabel = Label()
-    _pointType = str
+    def __init__(self, type, label, gps, startDescription, image, price, tip, tipPrice):
+        self._pointType = type
+        self._pointLabel = Label().setLabel(label)
+        self._gpsCoordinates = GPS().setDescriptionData(gps)
+        self._startDescription = TextDescription().setDescriptionData(startDescription)
+        self._picture = ImageDescription().setDescriptionData(image)
+        self._capturePrice = price
 
+        self._tip = TextDescription().setDescriptionData(tip)
+        self._tipPrice = tipPrice
+        self._timeSpentPerforming: datetime
+        self._isDone = False
 
     @abstractmethod
     def goToNextPoint(self):
