@@ -1,6 +1,7 @@
 from point.Label import Label
 
-class SignalLabel(Label):
+class SignLabel(Label):
 
     def getLabel(self):
+        
         
